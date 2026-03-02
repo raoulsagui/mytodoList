@@ -23,7 +23,7 @@ A task management application built with pure JavaScript, HTML and CSS.
 
 ## Live Demo
 
-[Click here to view the live demo](Phttps://raoulsagui.github.io/mytodoList/
+[Click here to view the live demo](Phttps://raoulsagui.github.io/mytodoList/)
 
 ## What I Learned
 
