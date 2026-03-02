@@ -2,7 +2,7 @@
 
 A task management application built with pure JavaScript, HTML and CSS.
 
-## 🚀 Features
+## Features
 
 - Add, edit and delete tasks
 - Mark tasks as completed
@@ -10,22 +10,22 @@ A task management application built with pure JavaScript, HTML and CSS.
 - Persistent storage with localStorage
 - Clean and responsive UI
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
 - LocalStorage
 
-## 📸 Screenshot
+## Screenshot
 
-![App Screenshot](assets/screenshot.png)
+[App Screenshot](assets/screenshot.png)
 
-## 🌍 Live Demo
+## Live Demo
 
-[Click here to view the live demo](PUT_YOUR_LINK_HERE)
+[Click here to view the live demo](Phttps://raoulsagui.github.io/mytodoList/
 
-## 📌 What I Learned
+## What I Learned
 
 - DOM manipulation
 - State management
